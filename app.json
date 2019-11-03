@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "学成在线",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+    "color":"#333333",
+    "selectedColor":"#123456",
+    "position":"bottom",
+    "list":[
+    {
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "iconPath":"",
+      "selectedIcon":""
+    },
+    {
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "iconPath":"",
+      "selectedIcon":""
+    },
+    {
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "iconPath":"",
+      "selectedIcon":""
+    },
+    {
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "iconPath":"",
+      "selectedIcon":""
+    }
+  ]
+  }
+}

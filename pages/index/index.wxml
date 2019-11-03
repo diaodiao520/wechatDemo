@@ -1,0 +1,242 @@
+<view class="top">
+   <image class="topimgl" src="https://m.boxuegu.com/_nuxt/img/logo.4ba874d.png">   
+   </image> 
+   <text>123</text> 
+</view>
+<!-- 轮播图片 -->
+<import  src="/public/tmpl/list.wxml" />
+
+
+<view>
+  <image class="nav" src="https://attachment-center.boxuegu.com/data/picture/online/2019/09/04/14/a8759cfb1aee4ea6819a6ba13e425412.jpg" />
+</view>
+<view class="icon-list">
+
+    <view>
+      <image class="icon" src="https://m.boxuegu.com/web/images/index/course.png" />
+      <text>就业课</text>
+    </view>
+
+    <view>
+      <image class="icon" src="https://m.boxuegu.com/web/images/index/mircoCourse.png" />
+      <text>提升课</text>
+    </view>
+
+    <view>
+      <image class="icon" src="https://m.boxuegu.com/web/images/index/freeMicroCourse.png" />
+      <text>免费课</text>
+    </view>
+
+    <view>
+      <image class="icon" src="https://m.boxuegu.com/web/images/index/courseType.png" />
+      <text>课程分类</text>
+    </view>
+  
+</view>
+<!-- 列表 -->
+<view class="list">
+  <view class="list-nav">
+    <view>就业课</view>
+    <view>更多</view>
+  </view>
+  
+  <view class="list-main">
+      <view><image class="list-main-left" src="https://file.boxuegu.com/f6c878722f394a7c9bd12c0319f00037.png"></image></view>
+      <view class="list-main-right">
+          <view class="list-main-top"><text>JavaEE</text></view>
+          <view class="list-main-min"><text>JavaEE是一个开放的、基于标准的平台</text></view>
+          <view class="list-main-bottom">
+              <view class="list-main-bottom-l">1784人学习</view>
+              <view class="list-main-bottom-r">￥14980</view>
+          </view>
+      </view>
+  </view>
+
+  <view class="list-main">
+      <view><image class="list-main-left" src="https://file.boxuegu.com/e19c53c6c1fa468aad6e11cb61d81b9a.png"></image></view>
+      <view class="list-main-right">
+          <view class="list-main-top"><text>JavaEE</text></view>
+          <view class="list-main-min"><text>JavaEE是一个开放的、基于标准的平台</text></view>
+          <view class="list-main-bottom">
+              <view class="list-main-bottom-l">1784人学习</view>
+              <view class="list-main-bottom-r">￥14980</view>
+          </view>
+      </view>
+  </view>
+
+  <view class="list-main">
+      <view><image class="list-main-left" src="https://file.boxuegu.com/3940be1c755a44eeb8e2e0aaf984756e.png"></image></view>
+      <view class="list-main-right">
+          <view class="list-main-top"><text>JavaEE</text></view>
+          <view class="list-main-min"><text>JavaEE是一个开放的、基于标准的平台</text></view>
+          <view class="list-main-bottom">
+              <view class="list-main-bottom-l">1784人学习</view>
+              <view class="list-main-bottom-r">￥14980</view>
+          </view>
+      </view>
+  </view>
+
+  <view class="list-main">
+      <view><image class="list-main-left" src="https://file.boxuegu.com/6c0ffe21a06d421d90be8a0061c14c1a.png"></image></view>
+      <view class="list-main-right">
+          <view class="list-main-top"><text>JavaEE</text></view>
+          <view class="list-main-min"><text>JavaEE是一个开放的、基于标准的平台</text></view>
+          <view class="list-main-bottom">
+              <view class="list-main-bottom-l">1784人学习</view>
+              <view class="list-main-bottom-r">￥14980</view>
+          </view>
+      </view>
+  </view>
+</view>
+
+<!-- 推荐课程 -->
+<view class="list2">
+    <view class='list2-nav'>
+        <view>推荐课程</view>
+        <view>更多</view>
+    </view>
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+</view>
+
+<!-- 免费课 -->
+<view class="list2">
+    <view class='list2-nav'>
+        <view>免费课</view>
+        <view>更多</view>
+    </view>
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+
+    <view class="list2-main">
+        <view class="list2-main-left">
+            <view class="list2-main-left-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-left-m">所有人都是学习数据...</view>
+            <view class="list2-main-left-b">
+                <view>710人学习</view>
+                <view class="list2-main-left-b-r">￥399.00</view>
+            </view>
+
+        </view>
+        
+    <view class="list2-main-right">
+            <view class="list2-main-right-t"><image src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg"></image></view>
+            <view class="list2-main-right-m">所有人都是学习数据...</view>
+            <view class="list2-main-right-b">
+                <view>710人学习</view>
+                <view class="list2-main-right-b-r">￥399.00</view>
+            </view>
+
+        </view>
+
+    </view>
+</view>
